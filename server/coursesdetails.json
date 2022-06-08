@@ -1,0 +1,49 @@
+{
+  "courselist": [
+    {
+      "id": 1,
+      "name": "Web Design",
+      "image": "https://png.pngtree.com/png-vector/20190611/ourlarge/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496210.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cyber Security",
+      "image": "https://img.freepik.com/free-vector/cyber-security-concept_53876-93472.jpg?w=2000"
+    },
+    {
+      "id": 3,
+      "name": "Artificial Intelligence",
+      "image": "https://images.squarespace-cdn.com/content/v1/5a3254202278e7f239fff96a/1534681014361-WKOCDKTVXU3Y3ZSWU3G0/ai%402x.png?format=1000w"
+    },
+    {
+      "id": 4,
+      "name": "Data Analytics",
+      "image": "https://www.clicdata.com/wp-content/uploads/2018/05/blog-the-future-of-business-data-analytics.png"
+    },
+    {
+      "id": 5,
+      "name": "DevOps",
+      "image": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/07184138/DevOps.png"
+    }
+  ],
+  "usersdata": [
+    {
+      "name": "sree",
+      "email": "sree@abc.com",
+      "mobile": "1234567891",
+      "id": 1
+    },
+    {
+      "name": "sree",
+      "email": "sree@abc.com",
+      "mobile": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "lekha",
+      "email": "lekha123@abc.com",
+      "mobile": "9876543210",
+      "id": 3
+    }
+  ]
+}
